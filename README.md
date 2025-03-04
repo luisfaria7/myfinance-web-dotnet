@@ -1,4 +1,5 @@
 🧮 MyFinance-Web-DotNet
+
 📌 MyFinance é um projeto do Curso de Pós-Graduação em Engenharia de Software da PUC-MG.
 
 📖 Sobre o Projeto
@@ -25,11 +26,13 @@ Requisitos
 Clonar o repositório
 git clone https://github.com/seu-usuario/MyFinance-Web-DotNet.git
 cd myfinance-web-dotnet/
+
 Construção do Projeto
 dotnet build
-Se a construção for bem-sucedida, o executável será gerado:
 
+Se a construção for bem-sucedida, o executável será gerado:
 bin/Debug/net9.0/myfinance-web-dotnet.dll.
+
 Executando a Aplicação
 Comando que deve ser utilizado:
 
@@ -50,7 +53,9 @@ RF001 - Plano de Contas: O sistema deve permitir o cadastro de Plano de Contas p
 
 
 
-RF002 - Registro de Transações: O sistema deve permitir o registro de Transações Financeiras de Receitas e Despesas indicando um item do Plano de Contas. Exemplo: image
+RF002 - Registro de Transações: O sistema deve permitir o registro de Transações Financeiras de Receitas e Despesas indicando um item do Plano de Contas. Exemplo:
+![image](https://github.com/user-attachments/assets/a32d778f-a289-4552-a9fe-6239f907be97)
+
 
 RF003 - Relatório de Transações por Período: O usuário precisa de um relatório em HTML, representando um demonstrativo das transações por tipo (Receita ou Despesa) e por período de datas.
 
@@ -61,7 +66,11 @@ RNF005 - Suporte a Plataformas: O sistema deve ser desenvolvido para plataformas
 RNF006 - Linguagens de Implementação: O sistema deve ser desenvolvido utilizando o Microsoft ASP.NET MVC com Banco de Dados SQL-SERVER
 
 🏛️ Modelagem Arquitetural
-image
+![image](https://github.com/user-attachments/assets/21368300-df81-4025-86dd-bba4f13f1f08)
+
+![image](https://github.com/user-attachments/assets/78a9e1e6-9a37-44c7-b173-7eb1a0456e6e)
+
+
 
 📝 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
